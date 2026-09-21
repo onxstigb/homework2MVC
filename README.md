@@ -49,7 +49,7 @@ The App handles the navigation links and detects which page the user selects. It
 
 ### GitHub
 
-PASTE GITHUB REPO LINK HERE
+https://github.com/onxstigb/homework2MVC 
 
 ### Web 4
 
